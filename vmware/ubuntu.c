@@ -19,6 +19,6 @@
 // c. 地区选择上海
 // d. 设置用户名和密码
 int main() {
-    printf("Ubuntu in VMware");
+    printf("Ubuntu in VMware\n");
     return 0;
 }
