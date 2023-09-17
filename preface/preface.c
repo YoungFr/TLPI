@@ -59,4 +59,5 @@
 //    伪终端 => Chapter 64
 int main() {
     printf("Preface\n");
+    return 0;
 }
